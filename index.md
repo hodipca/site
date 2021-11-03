@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 台灣好德公益文化協會
 
-You can use the [editor on GitHub](https://github.com/hodipca/site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+為守護台灣人民權益，同時推廣以台灣為主體的公益及文化活動並服務社會大眾，台灣好德公益文化協會創會籌備中，每一份溫柔守護、每一分堅定信念，都將成為孵育美好台灣不可或缺的力量。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+〈台灣好德公益文化協會章程草案〉將我們的理念化成文字，期待更多的認同與支持，更歡迎回傳〈入會申請書〉與我們並肩努力！申請書請寄至hodipca@gmail.com。
 
 ### Markdown
 
